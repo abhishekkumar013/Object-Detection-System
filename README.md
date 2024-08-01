@@ -10,8 +10,6 @@ This project is a real-time object detection system that uses a webcam to identi
 - Next.js
 - TensorFlow.js
 - COCO-SSD (Common Objects in Context - Single Shot Detector) model
-- react-webcam
-- lodash
 
 ## Key Features
 
